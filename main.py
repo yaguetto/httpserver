@@ -8,7 +8,7 @@ index = '''
     <meta charset="UTF-8" />
     <title>Brainfuck interpreter</title>
     <h1>Brainfuck interpreter</h1>
-    <p>Interpretador de Brainfuck desenvolvido por Gustavo Kawamoto e Yago Rogatto.</p>
+    <p>Interpretador de Brainfuck desenvolvido por Yago Rogatto.</p>
 </head>
 <body>
     <form action="/" method="POST">
@@ -21,8 +21,6 @@ index = '''
     </form>
 
     <dl>
-        <dt>GitHub Gustavo:</dt>
-        <dd><li><a href = "https://github.com/gkawamoto">Gkawamoto</a></li></dd>
         <dt>GitHub Yago:</dt>
         <dd><li><a href = "https://github.com/yaguetto">Yaguetto</a></li></d>
     </dl>
